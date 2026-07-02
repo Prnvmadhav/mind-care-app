@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 
 class GeminiService {
 //put api in .env file if possible(prnv)
-  static const String _apiKey = 'AIzaSyDYjLQFjC4o0JHUJduGlTYp_BuIgaINKec';
+  static const String _apiKey = 'AQ.Ab8RN6JuFHieGCC5shIzXUZL_VkHLAfAH7Pgjvm-DsX8qW_XEA';
   static const String _baseUrl = 'https://generativelanguage.googleapis.com/v1beta';
 
   final List<String> _availableWorkingModels = [];
